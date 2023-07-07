@@ -1,4 +1,4 @@
-![MasterHead]([[https://qph.cf2.quoracdn.net/main-qimg-1e20775a7dd2c45034f061292ff781e6](https://www.trio.dev/hubfs/Imported_Blog_Media/263a75529a1752b75d64f9f21fd07c92-3-2.jpg#keepProtocol)](https://d33wubrfki0l68.cloudfront.net/0c1f2b3a7db2b90f7c24915eb8b1223bbd80d3e5/d5c2a/static/b87971fa3d35839c9b909d9dffc76dc9/frontend.png))
+![MasterHead]([[https://www.trio.dev/hubfs/Imported_Blog_Media/263a75529a1752b75d64f9f21fd07c92-3-2.jpg#keepProtocol])
 <h1 align="center">Hi 👋, I'm Erdi Salgın</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
