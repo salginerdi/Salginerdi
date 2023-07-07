@@ -1,4 +1,4 @@
-![MasterHead](https://digikull.com/assets/img/illustrations/frontend_development.jpg)
+![MasterHead](https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/1284735/retina_500x200_op-Ten-Front-End-Design-Rules-For-Developers_Luke-Newsletter-d3a7d3e7430ee224cab75104f11342a0.png)
 <h1 align="center">Hi 👋, I'm Erdi Salgın</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
