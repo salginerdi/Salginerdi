@@ -1,4 +1,4 @@
-![MasterHead](https://prod-discovery.edx-cdn.org/media/programs/card_images/98b7344e-cd44-4a99-9542-09dfdb11d31b-9cdd52a73406.jpg)
+![MasterHead](https://studio.uxpincdn.com/studio/wp-content/uploads/2022/02/React-Native-vs-Reactjs.png)
 <h1 align="center">Hi 👋, I'm Erdi Salgın</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
