@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:748/0*dl6DnA8iMAYSVt2O.png)
+![MasterHead](https://digikull.com/assets/img/illustrations/frontend_development.jpg)
 <h1 align="center">Hi 👋, I'm Erdi Salgın</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
