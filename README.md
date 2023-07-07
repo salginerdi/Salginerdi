@@ -1,4 +1,4 @@
-![MasterHead](https://i0.wp.com/plopdo.com/wp-content/uploads/2021/07/Screenshot-1.png?resize=1210%2C642&ssl=1)
+![MasterHead](https://miro.medium.com/v2/resize:fit:748/0*dl6DnA8iMAYSVt2O.png)
 <h1 align="center">Hi 👋, I'm Erdi Salgın</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
