@@ -1,6 +1,6 @@
 ![MasterHead](https://studio.uxpincdn.com/studio/wp-content/uploads/2022/02/React-Native-vs-Reactjs.png)
 <h1 align="center">Hi 👋, I'm Erdi Salgın</h1>
-<h3 align="center">A passionate frontend developer from Türkiye</h3>
+<h3 align="center">Patika+ Fullstack Bootcamp Student from Türkiye</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salginerdi&label=Profile%20views&color=0e75b6&style=flat" alt="salginerdi" /> </p>
 
