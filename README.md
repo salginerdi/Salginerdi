@@ -1,4 +1,4 @@
-![MasterHead](https://studio.uxpincdn.com/studio/wp-content/uploads/2022/02/React-Native-vs-Reactjs.png)
+
 <h1 align="center">Hi 👋, I'm Erdi Salgın</h1>
 <h3 align="center">Patika+ Fullstack Bootcamp Student from Türkiye</h3>
 
