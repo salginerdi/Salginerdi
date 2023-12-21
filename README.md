@@ -13,7 +13,7 @@
 
 ###
 
-<p align="center">I'm Erdi Salgın from Türkiye<br>In order to continue my career as a "Fullstack Web Developer", I started to receive training in this field and started the "Patika+ Full Stack Web Development Bootcamp" programme. Within the 6-month programme, I learned Java, Java Spring Boot, REST API, GPT API Advanced Git, Cybersecurity Basics, MySQL, PostgreSQL, MongoDB, NoSQL, OOP, HTML, CSS, Bootstrap, JavaScript, React. js, as well as programming skills such as Clean Code, Project Management, Problem Solving Basics, Online Visibility, Product Life Cycle, Ethics in Business Life, Agile Methods. I am always open to improving myself with great passion in this field and learning new technologies with excitement.<br><br>- ⚡ Fun fact I'm a musician in a band :)</p>
+<p align="left">I'm Erdi Salgın from Türkiye<br>In order to continue my career as a "Fullstack Web Developer", I started to receive training in this field and started the "Patika+ Full Stack Web Development Bootcamp" programme. Within the 6-month programme, I learned Java, Java Spring Boot, REST API, GPT API Advanced Git, Cybersecurity Basics, MySQL, PostgreSQL, MongoDB, NoSQL, OOP, HTML, CSS, Bootstrap, JavaScript, React. js, as well as programming skills such as Clean Code, Project Management, Problem Solving Basics, Online Visibility, Product Life Cycle, Ethics in Business Life, Agile Methods. I am always open to improving myself with great passion in this field and learning new technologies with excitement.<br><br>- ⚡ Fun fact I'm a musician in a band :)</p>
 
 ###
 
