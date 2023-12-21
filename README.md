@@ -3,8 +3,12 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="erdi.salgin@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="www.linkedin.com/in/erdisalgin" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
@@ -13,7 +17,11 @@
 
 ###
 
-<p align="left">I'm Erdi Salgın from Türkiye...<br>In order to continue my career as a "Fullstack Web Developer", I started to receive training in this field and started the "Patika+ Full Stack Web Development Bootcamp" programme. Within the 6-month programme, I learned Java, Java Spring Boot, REST API, GPT API Advanced Git, Cybersecurity Basics, MySQL, PostgreSQL, MongoDB, NoSQL, OOP, HTML, CSS, Bootstrap, JavaScript, React. js, as well as programming skills such as Clean Code, Project Management, Problem Solving Basics, Online Visibility, Product Life Cycle, Ethics in Business Life, Agile Methods. I am always open to improving myself with great passion in this field and learning new technologies with excitement.<br><br>- ⚡ Fun fact I'm a musician in a band :)</p>
+<h4 align="center">I'm Erdi Salgın from Türkiye</h4>
+
+###
+
+<p align="left">In order to continue my career as a "Fullstack Web Developer", I started to receive training in this field and started the "Patika+ Full Stack Web Development Bootcamp" programme. Within the 6-month programme, I learned Java, Java Spring Boot, REST API, GPT API Advanced Git, Cybersecurity Basics, MySQL, PostgreSQL, MongoDB, NoSQL, OOP, HTML, CSS, Bootstrap, JavaScript, React. js, as well as programming skills such as Clean Code, Project Management, Problem Solving Basics, Online Visibility, Product Life Cycle, Ethics in Business Life, Agile Methods. I am always open to improving myself with great passion in this field and learning new technologies with excitement.<br><br>- ⚡ Fun fact I'm a musician in a band :)</p>
 
 ###
 
